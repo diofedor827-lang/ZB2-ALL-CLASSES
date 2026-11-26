@@ -1,4 +1,3 @@
-[ALL_SCRIPTS.txt](https://github.com/user-attachments/files/35485297/ALL_SCRIPTS.txt)
 
 ===== FILE: Achievments.cs =====
 
